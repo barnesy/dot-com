@@ -1,26 +1,23 @@
-<svg width="1355" height="997" viewBox="0 0 1355 997" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    #intro-bg {
-      fill: white;
-      stroke: rgba(255,255,255,0.2);
-      stroke-width: 3;
-      stroke-dasharray: 300;
-      stroke-dashoffset: 0;
-      animation: dash 5s linear infinite;
-    }
+<svg width="3850" height="2170" viewBox="0 0 3850 2170" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-    @keyframes dash {
-      to {
-        stroke-dashoffset:600;
-      }
-    }
-  </style>
+<style>
+  #intro-bg {
+    stroke: white;
+    stroke-width: 6;
+    stroke-dasharray: 300;
+    stroke-dashoffset: 0;
+    animation: dash 10s linear infinite;
+  }
 
-  <g id="intro-bg">
-    <path d="M0 862V672L162 766.358L0 862Z" fill="#00A2E0" fill-opacity="0.5"/>
-    <path d="M264 516V248L492 381.095L264 516Z" fill="#00A2E0" fill-opacity="0.5"/>
-    <path d="M162 997V767L357 881.223L162 997Z" fill="#00A2E0" fill-opacity="0.5"/>
-    <path d="M345 888V296L850 590L345 888Z" fill="#00A2E0" fill-opacity="0.5"/>
-    <path d="M850 592V0L1355 294L850 592Z" fill="#00A2E0" fill-opacity="0.5"/>
-  </g>
+  @keyframes dash {
+    to {
+      stroke-dashoffset: 1100;
+    }
+  }
+</style>
+
+<g id="intro-bg" opacity="0.2" style="stroke-dashoffset: 500;">
+  <path d="M1092 46.5L3501 998M1092 46.5L848.5 1137.5M1092 46.5L1743 461M1092 46.5L2287.6 582.442M1092 46.5L1057 418.5L1031 789L995.5 1554.5M3501 998L2340.5 843M3501 998L1448.5 1564.5M3501 998L2287.6 582.442M3501 998L2151 1586L809.5 2161H711M2340.5 843L2147.5 720M2340.5 843L1448.5 1564.5M711 2161H622L695.5 1834M711 2161L1013 1916M995.5 1554.5L2147.5 720M995.5 1554.5L1013 1916M995.5 1554.5L695.5 1834M995.5 1554.5L848.5 1137.5M2147.5 720L1743 461M1013 1916L1448.5 1564.5M695.5 1834L848.5 1137.5M1743 461L2287.6 582.442M1 1H3841V2161H1V1Z" stroke="white"/>
+</g>
+
 </svg>
