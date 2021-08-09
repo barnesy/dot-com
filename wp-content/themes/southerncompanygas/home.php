@@ -106,13 +106,13 @@ $i = 0;
     <p>We hold ourselves accountable to our customers first and foremost. To that end, we’re committed to delivering clean, safe, reliable and affordable energy for our customers, our neighbors and our communities.</p>
   </div>
 
-	<div href="/community" class="image-break pattern dark" style="background-image:url('https://southerncompanygas.com/wp-content/uploads/2019/10/scgco-what-is-natural-gas.jpg');">
+	<!-- <div href="/community" class="image-break pattern dark" style="background-image:url('https://southerncompanygas.com/wp-content/uploads/2019/10/scgco-what-is-natural-gas.jpg');">
     <div class="dimmer"></div>
     <div class="copy">
       <p class="hed hed--medium">Join our waitlist to know what's coming in Renewable Natural Gas</p>
-			<?php get_template_part( 'templates/mailchimp-form' ); ?>
+			<?php // get_template_part( 'templates/mailchimp-form' ); ?>
     </div>
-  </div>
+  </div> -->
 
   <div class="pattern content">
     <p>Our service starts with listening to – and learning from – our customers so we fully understand how to best meet their energy needs, and we take pride in our ability to provide them with clear, open and honest communication.</p>
