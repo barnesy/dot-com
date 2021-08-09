@@ -66,7 +66,7 @@ ul li { margin-bottom: 1rem; }
 
 #footer-info a:hover { color: #EC1C24; }
 
-#footer-info ul { margin: 0; padding: 0; }
+#footer-info ul { margin: 0; padding: 0; list-style: none; }
 
 #footer-info ul li a { font-size: 1.6rem; border-bottom: 1px solid #FFFFFF; line-height: 3.4rem; }
 
